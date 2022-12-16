@@ -1,0 +1,24 @@
+.table{
+    font-size:11px !important;
+}
+.add-btn{
+    margin-top:75px;
+}
+.btn{
+    font-size:11px !important;
+}
+.form-label{
+    font-size:11px !important;
+    margin: 0px !important;
+}
+.form-control{
+    padding:3px 10px !important;
+    font-size: 11px !important;
+}
+.form-group{
+    margin: 0px !important;
+}
+.row{
+    padding: 0px !important;
+    margin: 0px !important;
+}
